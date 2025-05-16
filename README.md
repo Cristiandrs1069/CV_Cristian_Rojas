@@ -13,12 +13,12 @@
 - Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Bachillerato** _(2025)_
+### **Bachillerato** _(2024)_
 - Tecnico en sistemas.
 
 ## 💡 Habilidades
 - **Formateo de computadores e instalacion de windows 10 y windows 11**
-- **Acivacion de licencias de oficce y windows**
+- **Activacion de licencias de oficce y windows**
 - **Matematicas**
 
 ---

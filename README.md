@@ -1,11 +1,11 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Cristian David Rojas Soacha
+**Profesión:** _Analisis y desarrollo de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
+- **Teléfono:** +57 
 - **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
@@ -17,13 +17,13 @@
 - Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Bachillerato** _(2025)_
+- Tecnico en sistemas.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Formateo de computadores e instlacion de windows 10 y windows 11**
+- **Acivacion de licencias de oficce y windows**
+- **Matematicas**
 
 ---
 

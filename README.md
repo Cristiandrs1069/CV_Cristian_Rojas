@@ -10,7 +10,7 @@
 ## 🏢 Experiencia Laboral
 
 ### **Sena** _(2025- Actualidad)_
-- Puesto ocupado y descripción breve.
+- Programador y desarrollador de software.
 
 ## 🎓 Educación
 ### **Bachillerato** _(2024)_

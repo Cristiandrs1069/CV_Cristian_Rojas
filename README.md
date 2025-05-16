@@ -17,7 +17,7 @@
 - Tecnico en sistemas.
 
 ## 💡 Habilidades
-- **Formateo de computadores e instlacion de windows 10 y windows 11**
+- **Formateo de computadores e instalacion de windows 10 y windows 11**
 - **Acivacion de licencias de oficce y windows**
 - **Matematicas**
 

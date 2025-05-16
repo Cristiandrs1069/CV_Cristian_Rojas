@@ -5,15 +5,11 @@
 **Profesión:** _Analisis y desarrollo de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** [cristianrdavidrojassoacha@gmail.com](mailto:cristianrdavidrojassoacha@gmail.com)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
 
-### **Empresa ABC** _(2018 - 2020)_
+### **Sena** _(2025- Actualidad)_
 - Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
